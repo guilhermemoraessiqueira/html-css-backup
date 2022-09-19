@@ -59,7 +59,7 @@ header > h1{
 header > p{
     font-family: var(--font-padrao);
     font-size: 1.2em;
-    color: white;
+    color: rgba(255, 255, 255, 0.966);
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
